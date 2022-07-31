@@ -1,0 +1,19 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for react project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyewon3938/react-boilerplate.git"
+  },
+  "author": "hyewon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyewon3938/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hyewon3938/react-boilerplate#readme"
+}
