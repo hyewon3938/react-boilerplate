@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/hyewon3938/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/hyewon3938/react-boilerplate#readme"
+  "homepage": "https://github.com/hyewon3938/react-boilerplate#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv-webpack": "^1.8.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^5.3.3",
+    "redux": "^4.2.0",
+    "typescript": "^3.9.10"
+  }
 }
