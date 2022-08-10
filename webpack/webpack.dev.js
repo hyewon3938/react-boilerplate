@@ -12,7 +12,10 @@ module.exports = merge(common, {
     open: true,
     historyApiFallback: true,
   },
-
+  watchOptions: {
+    poll: true,
+    ignored: '/node_modules/',
+  },
   plugins: [
     new Dotenv({
       path: path.resolve(__dirname, '../.env.development'),
